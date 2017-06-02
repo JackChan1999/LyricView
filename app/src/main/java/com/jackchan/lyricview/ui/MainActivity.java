@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void setMiniLrc(String lrc){
+        // TODO: 2017/6/2
+    }
 }
